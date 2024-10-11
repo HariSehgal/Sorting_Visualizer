@@ -26,7 +26,7 @@ To run this project, the following tools and libraries are required:
 
 ## How to Run
 1. **Clone the Repository**:  
-   git clone https://github.com/username/Sorting-Visualizer.git
+   git clone https://github.com/HariSehgal/Sorting_Visualizer.git
 2. **Install SDL2**:  
    Download and set up the SDL2 library for your system. Ensure that the SDL2 headers and binaries are linked to the project.
 3. **Compile the Project**:  
